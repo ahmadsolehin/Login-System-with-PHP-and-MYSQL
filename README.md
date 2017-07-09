@@ -10,7 +10,26 @@
 ![nn](https://user-images.githubusercontent.com/12325386/27990520-473db294-648c-11e7-9f21-91257c28b0ca.JPG)
 
 
-![nn](https://user-images.githubusercontent.com/12325386/27990695-4235acfc-6491-11e7-9c7f-6e0f4f40999f.JPG)
+
+<table><tr>
+<td width="25%">
+Sign up
+<img src="![nn](https://user-images.githubusercontent.com/12325386/27990695-4235acfc-6491-11e7-9c7f-6e0f4f40999f.JPG)
+" width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
+</td>
+<td width="25%">
+Capture Signature
+<img src="http://i.imgur.com/L8bTBQ3.png" width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
+</td>
+<td width="25%">
+Launch Camera
+<img src="http://i.imgur.com/aboDcCD.png" width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
+</td>
+
+</tr></table>
+
+
+
 
 ![nn](https://user-images.githubusercontent.com/12325386/27990658-114ae536-6490-11e7-98ac-f6691f7ca9d0.JPG)
 
