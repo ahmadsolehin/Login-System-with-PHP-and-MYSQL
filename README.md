@@ -19,7 +19,7 @@ Sign up
 </td>
 <td width="25%">
 Capture Signature
-<img src="http://i.imgur.com/L8bTBQ3.png" width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
+<img src="https://user-images.githubusercontent.com/12325386/27990520-473db294-648c-11e7-9f21-91257c28b0ca.JPG" width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
 </td>
 <td width="25%">
 Launch Camera
