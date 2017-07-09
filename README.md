@@ -14,7 +14,7 @@
 <table><tr>
 <td width="25%">
 Sign up
-<img src="![nn](https://user-images.githubusercontent.com/12325386/27990695-4235acfc-6491-11e7-9c7f-6e0f4f40999f.JPG)
+<img src="https://user-images.githubusercontent.com/12325386/27990695-4235acfc-6491-11e7-9c7f-6e0f4f40999f.JPG
 " width="200" alt="Ionic 3 and Angular 4 using Signature Pad">
 </td>
 <td width="25%">
